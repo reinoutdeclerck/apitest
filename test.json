@@ -3,8 +3,8 @@
     "line_1": {
       "sim_2": {
         "current_shift":
-          "packing_format": "Small Can",
-          "D_PROD_ACT_PCS": 7
+          "packing_format":"Small Can",
+          "D_PROD_ACT_PCS":7
       }
     }
   }
