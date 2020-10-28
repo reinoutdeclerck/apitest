@@ -9,36 +9,36 @@
         "week": {
           "monday": {
             "shift_1": {
-              "S_TAL_#": 1,
-              "S_NM_#": 2
+              "S_TAL_#": 5,
+              "S_NM_#": 6
             },
             "shift_2": {
-              "S_TAL_#": 1,
-              "S_NM_#": 2
+              "S_TAL_#": 7,
+              "S_NM_#": 8
             },
             "shift_3": {
-              "S_TAL_#": 1,
-              "S_NM_#": 2
+              "S_TAL_#": 9,
+              "S_NM_#": 10
             }
           },
           "tuesday": {
             "shift_1": {
-              "S_TAL_#": 1,
-              "S_NM_#": 2
+              "S_TAL_#": 11,
+              "S_NM_#": 12
             },
             "shift_2": {
-              "S_TAL_#": 1,
-              "S_NM_#": 2
+              "S_TAL_#": 13,
+              "S_NM_#": 14
             },
             "shift_3": {
-              "S_TAL_#": 1,
-              "S_NM_#": 2
+              "S_TAL_#": 15,
+              "S_NM_#": 16
             }
           }
         },
         "current_shift": {
-          "S_TAL_#": 1,
-          "S_NM_#": 2
+          "S_TAL_#": 3,
+          "S_NM_#": 4
         }
       },
       "sim_3": {
