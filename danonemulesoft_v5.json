@@ -1,0 +1,178 @@
+{
+  "sim_2": {
+    "current_week": {
+      "S_TAL_#": 1,
+      "S_NM_#": 2,
+      "Q_TAL_#": 1,
+      "Q_CCP_#": 2,
+      "Q_OPRP_VAL": 1,
+      "Q_OPRP_#": 2,
+      "C_LOS_PCS": 1,
+      "C_LOS_KG": 2,
+      "D_PROD_ACT_PCS": 1,
+      "C_AMC_LC": 2,
+      "C_TMC_LC": 2,
+      "D_TD_MIN": 2,
+      "D_THD_MIN": 2,
+      "D_PROD_FCST_PCS": 2,
+      "M_CFH_#": 2,
+      "M_PST_#": 2
+    },
+    "current_day": {
+      "S_TAL_#": 3,
+      "S_NM_#": 4
+    },
+    "current_shift": {
+      "S_TAL_#": 1,
+      "S_NM_#": 2,
+      "Q_TAL_#": 3,
+      "Q_CCP_#": 4,
+      "Q_CCP_VAL": ["text_a", "text_b", "text_c"],
+      "Q_OPRP_#": 6,
+      "Q_OPRP_VAL": ["text_a", "text_b", "text_c"],
+      "C_LOS_PCS": 7,
+      "C_LOS_KG": 8,
+      "D_PROD_ACT_PCS": 10,
+      "C_AMC_LC": 11,
+      "C_TMC_LC": 12,
+      "D_TD_MIN": 13,
+      "D_TD_VAL": ["text_a", "text_b", "text_c"],
+      "D_THD_MIN": 14,
+      "D_PROD_FCST_PCS": 15,
+      "M_CFH_#": 16,
+      "M_PST_#": 17
+    },
+    "week": {
+      "monday": {
+        "shift_1": {
+          "S_TAL_#": 1,
+          "S_NM_#": 2,
+          "Q_TAL_#": 3,
+          "Q_CCP_#": 4,
+          "Q_OPRP_#": 6,
+          "C_LOS_PCS": 7,
+          "C_LOS_KG": 8,
+          "D_PROD_ACT_PCS": {
+            "F1": 9,
+            "F2": 10
+          },
+          "C_AMC_LC": 11,
+          "C_TMC_LC": 12,
+          "D_TD_MIN": 13,
+          "D_THD_MIN": 14,
+          "D_PROD_FCST_PCS": 15,
+          "M_CFH_#": 16,
+          "M_PST_#": 17
+        },
+        "shift_2": {
+          "S_TAL_#": 1,
+          "S_NM_#": 2,
+          "Q_TAL_#": 3,
+          "Q_CCP_#": 4,
+          "Q_OPRP_#": 6,
+          "C_LOS_PCS": 7,
+          "C_LOS_KG": 8,
+          "D_PROD_ACT_PCS": {
+            "F1": 9,
+            "F2": 10
+          },
+          "C_AMC_LC": 11,
+          "C_TMC_LC": 12,
+          "D_TD_MIN": 13,
+          "D_THD_MIN": 14,
+          "D_PROD_FCST_PCS": 15,
+          "M_CFH_#": 16,
+          "M_PST_#": 17
+        },
+        "shift_3": {
+          "S_TAL_#": 1,
+          "S_NM_#": 2,
+          "Q_TAL_#": 3,
+          "Q_CCP_#": 4,
+          "Q_OPRP_#": 6,
+          "C_LOS_PCS": 7,
+          "C_LOS_KG": 8,
+          "D_PROD_ACT_PCS": {
+            "F1": 9,
+            "F2": 10
+          },
+          "C_AMC_LC": 11,
+          "C_TMC_LC": 12,
+          "D_TD_MIN": 13,
+          "D_THD_MIN": 14,
+          "D_PROD_FCST_PCS": 15,
+          "M_CFH_#": 16,
+          "M_PST_#": 17
+        }
+      },
+      "tuesday": {
+        "shift_1": {
+          "S_TAL_#": 1,
+          "S_NM_#": 2,
+          "Q_TAL_#": 3,
+          "Q_CCP_#": 4,
+          "Q_OPRP_#": 6,
+          "C_LOS_PCS": 7,
+          "C_LOS_KG": 8,
+          "D_PROD_ACT_PCS": {
+            "F1": 9,
+            "F2": 10
+          },
+          "C_AMC_LC": 11,
+          "C_TMC_LC": 12,
+          "D_TD_MIN": 13,
+          "D_THD_MIN": 14,
+          "D_PROD_FCST_PCS": 15,
+          "M_CFH_#": 16,
+          "M_PST_#": 17
+        },
+        "shift_2": {
+          "S_TAL_#": 1,
+          "S_NM_#": 2,
+          "Q_TAL_#": 3,
+          "Q_CCP_#": 4,
+          "Q_OPRP_#": 6,
+          "C_LOS_PCS": 7,
+          "C_LOS_KG": 8,
+          "D_PROD_ACT_PCS": {
+            "F1": 9,
+            "F2": 10
+          },
+          "C_AMC_LC": 11,
+          "C_TMC_LC": 12,
+          "D_TD_MIN": 13,
+          "D_THD_MIN": 14,
+          "D_PROD_FCST_PCS": 15,
+          "M_CFH_#": 16,
+          "M_PST_#": 17
+        },
+        "shift_3": {
+          "S_TAL_#": 1,
+          "S_NM_#": 2,
+          "Q_TAL_#": 3,
+          "Q_CCP_#": 4,
+          "Q_OPRP_#": 6,
+          "C_LOS_PCS": 7,
+          "C_LOS_KG": 8,
+          "D_PROD_ACT_PCS": {
+            "F1": 9,
+            "F2": 10
+          },
+          "C_AMC_LC": 11,
+          "C_TMC_LC": 12,
+          "D_TD_MIN": 13,
+          "D_THD_MIN": 14,
+          "D_PROD_FCST_PCS": 15,
+          "M_CFH_#": 16,
+          "M_PST_#": 17
+        }
+      }
+    }
+  },
+  "sim_3": {
+    "current_shift": {
+      "S_TAL_#": 3,
+      "S_NM_#": 4
+    }
+  }
+}
