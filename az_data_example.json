@@ -8,11 +8,11 @@
       "Personnel": 1
     },
     "current_week": {
-      "SHE": 10,
-      "Quality": 5,
-      "Supply": 90,
-      "Cost": 10,
-      "Personnel": 5
+      "SHE": 75,
+      "Quality": 2,
+      "Supply": 85,
+      "Cost": 4,
+      "Personnel": 95
     }
   }
 }
