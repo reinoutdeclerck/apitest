@@ -1,18 +1,18 @@
 {
   "tier_2": {
     "current_day": {
-      she: 2,
-      quality: 1
-      supply: 85
-      cost: 2
-      personnel: 1
+      "SHE": 2,
+      "Quality": 1,
+      "Supply": 85,
+      "Cost": 2,
+      "Personnel": 1
     },
     "current_week": {
-      she: 10,
-      quality: 5
-      supply: 90
-      cost: 10
-      personnel: 5
+      "SHE": 10,
+      "Quality": 5,
+      "Supply": 90,
+      "Cost": 10,
+      "Personnel": 5
     }
   }
 }
